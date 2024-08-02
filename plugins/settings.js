@@ -145,10 +145,10 @@ izumi({
             },
             contextInfo: { 
                 externalAdReply: {
-                    title: "Iᴢᴜᴍɪ Sᴜᴘᴘᴏʀᴛ🧚‍♂️",
-                    body: "Eypz",
-                    sourceUrl: "https://chat.whatsapp.com/KHvcGD7aEUo8gPocJsYXZe",
-                    mediaUrl: "https://chat.whatsapp.com/KHvcGD7aEUo8gPocJsYXZe",
+                    title: "@_sks_bot_",
+                    body: "S Y 4 M",
+                    sourceUrl: "https://chat.whatsapp.com/DAD1FGg9dES0FpxtrUEheo",
+                    mediaUrl: "https://chat.whatsapp.com/DAD1FGg9dES0FpxtrUEheo",
                     mediaType: 1,
                     showAdAttribution: true,
                     renderLargerThumbnail: false,
