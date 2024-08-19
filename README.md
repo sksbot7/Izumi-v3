@@ -7,7 +7,18 @@
    <br>
 <a href='https://izumi.maskser.me' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
 
-2. Fork This Repository
+ 
+### For getting session in Indian number
+1.  Termux
+    <br>
+<a href='https://www.mediafire.com/file/iogcejb8629yv63/base.apk/file' target="_blank"><img alt='Install Termux' src='https://img.shields.io/badge/Install Termux-V2100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+2. download termux and run the command
+    ```
+   pkg update && pkg install -y nodejs git && git clone https://github.com/mask-sir/izumi-qr.git && cd izumi-qr && npm install && node index.js
+   ```
+
+1. Fork This Repository
    <br>
 <a href='https://github.com/sataniceypz/Izumi-V3/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 
@@ -25,9 +36,11 @@
    <br>
 <a href='https://koyeb.com' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-2. Deploy on Koyeb
+2. Get [Koyeb api key](https://app.koyeb.com/account/api)
+
+3. Deploy on Koyeb
    <br>
-<a href='https://api.maskser.me/koyeb' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://izumi-web.vercel.app/koyeb' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 ### Railway
 1. Create account on Railway
@@ -53,15 +66,6 @@
  </p>
  </br>
  
-### For getting session in Indian number
-1.  Termux
-    <br>
-<a href='https://www.mediafire.com/file/iogcejb8629yv63/base.apk/file' target="_blank"><img alt='Install Termux' src='https://img.shields.io/badge/Install Termux-V2100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-2. download termux and run the command
-    ```
-   pkg update && pkg install -y nodejs git && git clone https://github.com/mask-sir/izumi-qr.git && cd izumi-qr && npm install && node index.js
-   ```
 ### RUN ON VPS/TERMUX
 
 1. Install packages
