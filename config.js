@@ -31,7 +31,7 @@ module.exports = {
   READ_MSG: toBool(process.env.READ_MSG),
   OWNER_NAME: process.env.OWNER_NAME || "𝗦 𝗬 4 𝗠",
   BOT_NAME: process.env.BOT_NAME || "𝐒𝐊𝐒 𝐁𝐎𝐓☮︎ ᵒᶠᶜ",
-  SUDO: process.env.SUDO || 919888280858,
+  SUDO: process.env.SUDO || null,
   LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
   STICKER_PACKNAME: process.env.STICKER_PACKNAME || "𝗜𝗚:_sks_bot_,❤️",
   AUDIO_DATA: process.env.AUDIO_DATA || "Eʏᴘᴢ;Iᴢᴜᴍɪ-ᴠ3;https://i.imgur.com/cO0TZJv.jpeg",
